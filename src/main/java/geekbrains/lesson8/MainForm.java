@@ -12,7 +12,6 @@ public class MainForm extends JFrame {
     private final GameField gameField;
     private int value1;
     private static final JTextArea textArea = new JTextArea();
-    private Graphics g;
 
     public static void addText(String str){
         textArea.append(str);
