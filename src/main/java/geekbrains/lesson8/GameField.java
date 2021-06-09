@@ -66,19 +66,5 @@ public class GameField extends JPanel {
             return true;
         }
     }
-    /*
-        while(true) {
-            System.out.println("Введите число от 0 до 9");
-            for (tries = 2; tries >= 0;tries--){
-                num = sc.nextInt();
-
-
-
-
-            }
-            System.out.println("Повторить игру еще раз? 1 – да / 0 – нет");
-            if(sc.nextInt() == 0) break;
-        }
-*/
-
+   
 }
